@@ -1,0 +1,11 @@
+/***** background-image *****/
+
+        /* background-image header */
+                .bgc-image-bonus1{
+                        background-image: url(../Illustration/img35.png);
+                        background-position: 10% 100%;
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                }
+                
+/***** End background-image *****/

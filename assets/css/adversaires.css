@@ -1,0 +1,21 @@
+/***** background-image *****/
+
+        /* background-image header */
+                .bgc-image-adversaire1{
+                        background-image: url(../Illustration/img7.png);
+                        background-size: cover;
+                        background-position: 100% 15%;
+                }
+
+/***** End background-image *****/
+
+
+/***** bordure  *****/
+
+        /* specification des bordure en bas */
+                .bord-bottom-specify{
+                        border-radius: 0 0 2em 2em;
+                }
+
+                
+/***** End bordure  *****/

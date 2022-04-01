@@ -1,0 +1,55 @@
+/* display */
+        /* mobile */
+                .mobile{
+                        display: none;
+                }
+
+                .mobile-footer{
+                        display: none;
+                }
+
+                .mobile{
+                        display: none;
+                }
+
+                .mobile-1200{
+                        display: none;
+                }
+                
+        /* desktop */
+                .desktop-1200{
+                        display: block;
+                }
+
+/* responsive avec taille ecran */
+        /* taille ecran 1-->768px */
+                @media screen and (max-width:768px) {
+                        .mobile{
+                                display: block;
+                        }
+                        .desktop{
+                                display: none !important;
+                        }
+                }
+
+        /* taille ecran 768px -->1200px */
+                @media  screen and (max-width:1200px) {
+                        
+                        /* mobile footer */
+                        .mobile-footer{
+                                display: block;
+                        }
+                        .mobile-1200{
+                                display: block;
+                        }
+                        
+                        /* desktop footer */
+                        .desktop-footer{
+                                display: none;
+                        }
+                        
+                        .desktop-1200{
+                                display: none;
+                        }
+                        
+                }

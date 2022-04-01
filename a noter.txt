@@ -1,0 +1,19 @@
+PARTIS NON FINI 
+        <== PAGE HOME ==>
+                FINI 
+        
+
+        <== PAGE ADVERSAIRE ==>
+                NON FINI
+                        manque de text 
+        
+        <== PAGE HEROS ==>
+                NON FINI
+                        fichier video non place 
+        
+        <== PAGE A PROPOS ==>
+                FINI 
+
+        <== PAGE BONUS ==>
+                FINI
+        

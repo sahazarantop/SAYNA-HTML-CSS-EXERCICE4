@@ -1,0 +1,28 @@
+/***** background-image *****/
+
+        /* background-image header aporpos */
+                .bgc-image-aprorpos1{
+                        background-image: url(../Illustration/img5.png);
+                        background-size: 50%;
+                        background-repeat: no-repeat;
+                        background-position: 0%;
+                }
+
+/***** End background-image *****/
+
+
+
+
+.transform-180{
+        transform: rotateY(180deg);
+}
+
+/***** mise en page *****/
+
+        /* mise en page des "input" */
+                .formulaire input{
+                        display: block;
+                }
+
+        
+/***** End mise en page *****/
